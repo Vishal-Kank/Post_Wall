@@ -69,5 +69,5 @@ button{
   border: 0px;
   border-radius: 3px;
   color: rgb(34, 34, 34);
-  font-size: calc(10px+10vmin)
+  font-size: calc(10px+2vmin)
 }
