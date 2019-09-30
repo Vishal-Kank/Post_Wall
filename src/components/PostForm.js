@@ -46,7 +46,7 @@ class PostForm extends React.Component{
                     <div className='label'><h3>Body</h3></div> 
                     <div className='textarea'><textarea name='body' onChange={this.handleOnChange} value={this.state.body}/><br/></div>
                     
-                    <button type='submit'><b>Post</b></button><br/>
+                    <button type='submit'><b>Add Post</b></button><br/>
                 
                 </form>
             </div>
